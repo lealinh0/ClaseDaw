@@ -1,0 +1,8 @@
+ERROR_BD=BD ERROR
+R_RECUPERADO=Record recovered
+CONTRASE\u00d1A_CORTA=Password too short. Minimum 8
+EMAIL_INV\u00c1LIDO=Email not valid
+CAMPOS_REQUERIDOS=There are required fields without value
+ERROR_ELIMINACI\u00d3N=Error deleting row
+R_ELIMINADO=Row deleted
+ERROR_ACTUALIZACI\u00d3N=Error updating row
